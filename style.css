@@ -1,0 +1,90 @@
+*{
+    margin:0;
+    padding:0;
+}
+.heading{
+    display: flex;
+}
+.heading{
+    margin-top: 50px;
+    margin-left: 160px;
+}
+.first{
+    float: left;
+    color: rgb(121, 50, 121);
+    font-weight: bold;
+}
+.second{
+    float: right;
+    color:  rgb(121, 50, 121);
+    margin-left: 300px;
+    font-weight: bold;
+}
+
+.second p{
+    border-radius: 20px;
+    background: #fff3f3;
+    border-radius: 10px;
+    padding: 20px 12px;
+    box-sizing:border-box;
+    font-weight: bold;
+}
+.main{
+    width: 80%;
+    margin: auto;
+    padding-top: 100px;
+    text-align: center;
+}
+.container{
+    padding-top: 20px;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 5%;
+    text-align: center;
+    padding: 25px;
+    cursor:pointer;
+    display:flex;
+    justify-content: space-between;
+}
+.calton img{
+    height: 40px;
+    margin-left: 5px;
+    margin-right: 30px;
+    
+    
+}
+.calton h4{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    padding: 0;
+    font-family:sans-serif;
+}
+.calton p{
+    margin-top: 15px;
+    text-align: left;
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+.smith{
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 110%;
+    height: 120%;
+    background-color: rgb(105, 13, 105);
+}
+.veri{
+    color: rgb(201, 121, 201);
+}
+.h4{
+    margin-top: 10px;
+}
+img{
+    margin-top: 20px;
+    border-radius: 150px;
+}
+.first p{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
